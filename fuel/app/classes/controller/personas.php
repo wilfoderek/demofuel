@@ -77,6 +77,7 @@ class Controller_Personas extends Controller_Template {
         $data["subnav"] = array('view' => 'active');
         $this->template->title = 'Personas &raquo; View';
         $this->template->content = View::forge('personas/view', $data);
+        //nuevos script aquí
     }
 
 }
