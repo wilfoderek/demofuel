@@ -42,6 +42,10 @@ class Model_Persona extends \Orm\Model {
         return $query;
         // return static::find('all');
         // return static::find('all');
+        // return static::find('all');
+        // return static::find('all');
+        // return static::find('all');
+        // return static::find('all');
     }
 
 }
